@@ -5,6 +5,9 @@
 
 # Node artifact files
 */*/node_modules/
+www/backend/uploads/*
+www/backend/src/database/database.sqlite
+
 dist/
 
 # Compiled Java class files
